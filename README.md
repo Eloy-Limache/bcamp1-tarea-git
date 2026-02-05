@@ -20,3 +20,5 @@ Estudiante de ING. de Software  con Inteligencia Artificial.
 - Prácticas y trabajos en clase enfocados en software y bases de datos
 
 SOY UN ESTUDIANTE CEN CONSTANTE APRENDIZAJE Y MEJORA 
+---
+Este README fue mejorado desde una rama de desarrollo
